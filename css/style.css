@@ -2,3 +2,20 @@ body {
   background-color: #eef6ff;
   font-family: Georgia, serif;
 }
+
+h2 {
+  color: #2a5d84;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #2a5d84;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
